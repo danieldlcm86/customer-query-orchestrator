@@ -29,9 +29,9 @@ AC5: La operación debe registrar logs básicos.
 
 ### Validation Rules
 
-Customer number must be numeric and contain exactly 8 digits.
+Número de cliente debe ser numérico y contener exactamente 8 dígitos.
 
-Example: 10024501
+Ejemplo: 10024501
 
 ## UI Context: Formulario de Consulta de Cliente
 
